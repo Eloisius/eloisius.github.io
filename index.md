@@ -3,22 +3,21 @@ title: Welcome to my blog
 ---
 
 # Eloisius Homepage
-This is to test some stuff. At some point, there will maybe be interesting things here!
+Hier probiere ich ein bisschen aus, meine Erfahrungen in Blog-Form zu dokumentieren!
 
 - [x] excited
 - [ ] not excited
 
-Ein Beispiel für einen [Post](https://eloisius.github.io/2024/07/09/first-post.html)
-
-This is very cool content.
-
 ***
 
-See? I can do checkboxes
+Dabei probiere ich gleichzeit aus eine Website aufzusetzen und in Markdown zu schreiben.
 
 - [ ] not cool
 - [x] cool
 
-and code snippets
+Guck mal, ich kann Code abbilden:
 
-`print("Cool stuff")`
+
+`for (int i = 0; i < n; i++) {`
+`   print("Cool stuff");`
+`}`
