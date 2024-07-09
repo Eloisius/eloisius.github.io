@@ -1,7 +1,6 @@
 ---
 title: "First-Post"
 date: 2024-07-09
-categories: "Test-Category"
 ---
 
 # Can I format here
