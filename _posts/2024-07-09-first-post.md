@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "First-Post"
 date: 2024-07-09
 ---
