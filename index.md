@@ -18,6 +18,6 @@ Dabei probiere ich gleichzeit aus eine Website aufzusetzen und in Markdown zu sc
 Guck mal, ich kann Code abbilden:
 
 
-`for (int i = 0; i < n; i++) {
-   print("Cool stuff");
+`for (int i = 0; i < n; i++) {  
+   print("Cool stuff");  
 }`
