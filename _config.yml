@@ -5,6 +5,9 @@ author: eloisius
 
 
 navbar-links:
+  Academics:
+    - General Program: "program"
+    - My Plan: "myprogress"
   About Me: "aboutme"
 
 avatar: "assets/boi.jpg"
