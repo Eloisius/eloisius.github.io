@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Second-Post"
 date: 2024-07-09
 ---
