@@ -9,5 +9,5 @@ Hier stelle ich genauer dar, wie ich spezifisch das Programm für mich designe u
 
 | Modul der TUBS | Modul der UNO | bestanden | Transferstatus |
 |:--------------|:--------------|:---------:|:--------------|
-| *Seminar Decision Support* | Elective 1 | - [x] done | akzeptiert |
-| ... | ... | ... | U+2713 |
+| *Seminar Decision Support* | Elective 1 | :white_check_mark: | akzeptiert |
+| ... | ... | ... | ... |
