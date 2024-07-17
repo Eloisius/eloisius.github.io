@@ -3,7 +3,6 @@ title: Eloisius Homepage
 description: Cool Stuff by eloisius
 author: eloisius
 
-
 navbar-links:
   Academics:
     - General Program: "program"
@@ -40,7 +39,7 @@ social-network-links:
   #  bluesky: yourname
   #  ORCID: your ORCID ID
   #  google-scholar: your google scholar
-  #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
+  #  discord: "invite_code" or "users/userid" or "invite/invite_code"
   #  kaggle: yourname
   #  hackerrank: yourname
   #  gitlab: yourname
@@ -126,3 +125,5 @@ footer-hover-col: "#007189"
 
 # Ruby Date Format to show dates of posts
 date_format: "%-d. %B %Y"
+
+markdown: GFM
