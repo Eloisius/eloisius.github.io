@@ -5,14 +5,15 @@ subtitle: Aktuelle Uhrzeit in Braunschweig und Omaha
 ---
 
 Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angegeben. Vielleicht hilft diese Information ja bei der Kontaktaufnahme 😄
-
+<!---
 <center>
  <iframe src="https://eloisius.github.io/timewidget.html" title="Weltuhren" width=600 height=160 style="border:none"></iframe>
 </center>
+-->
 <html>
 <style>
     body {
-        font-size: larger;
+        font-size: x-large;
         text-align: center;
         margin: 0;
         padding: 0;
@@ -32,7 +33,7 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
     .clock {
         border: 2px solid #333;
         border-radius: 10px;
-        padding: 10px;
+        padding: 15px;
         /*width: calc(100% - 40px); /* Adjusting box size */
         max-width: 400px;
         margin-top: 10px;
@@ -44,7 +45,6 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
         margin-top: 0;
     }
 </style>
-</head>
 <body>
 <div id="clocks">
     <div id="berlin" class="clock">
