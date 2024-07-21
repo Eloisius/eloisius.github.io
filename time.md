@@ -58,10 +58,10 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
 
 <script>
 function updateClocks() {
-    const berlinTime = new Date().toLocaleTimeString("de", {timeZone: "Europe/Berlin", hour: "numeric", minute: "2-digit"}).slice(0, -3);
+    const berlinTime = new Date().toLocaleTimeString("de", {timeZone: "Europe/Berlin", hour: "numeric", minute: "2-digit"});
     document.getElementById("berlinTime").textContent = berlinTime;
 
-    const berlinDate = new Date().toLocaleDateString("de", {timeZone: "Europe/Berlin", month: "long", day: "2-digit"}).slice(0, -10);
+    const berlinDate = new Date().toLocaleDateString("de", {timeZone: "Europe/Berlin", month: "long", day: "2-digit"});
     document.getElementById("berlinDate").textContent = berlinDate;
 
     const chicagoTime = new Date().toLocaleString("de", {timeZone: "America/Chicago"}).slice(0, -3);
