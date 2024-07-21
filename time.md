@@ -79,13 +79,16 @@ function updateClocks() {
     document.getElementById("newYorkDate").textContent = newYorkDate;
 }
 
-// Update clocks every second
-const waitms = new Date().getMilliseconds();
-setTimeout(function(){setInterval(updateClocks, 1000);}, 1000 - waitms)
-
-
 // Initial update
 updateClocks();
+
+// Update clocks every second
+const waitms = new Date().getMilliseconds();
+sleep(1000 - waitms)
+setInterval(updateClocks, 1000);
+
+
+
 </script>
 </center>
 </body>
