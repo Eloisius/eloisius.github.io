@@ -46,13 +46,15 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
         <div id="berlinTime"></div>
         <div id="berlinDate"></div>
     </div>
-    <div id="Omaha" class="clock">
+    <div id="omaha" class="clock">
         <h2>Omaha</h2>
         <div id="omahaTime"></div>
+        <div id="omahaDate"></div>
     </div>
     <div id="newYork" class="clock">
         <h2>New York</h2>
         <div id="newYorkTime"></div>
+        <div id="newYorkDate"></div>
     </div>
 </div>
 
@@ -61,14 +63,20 @@ function updateClocks() {
     const berlinTime = new Date().toLocaleTimeString("de", {timeZone: "Europe/Berlin", hour: "numeric", minute: "2-digit"});
     document.getElementById("berlinTime").textContent = berlinTime;
 
-    const berlinDate = new Date().toLocaleDateString("de", {timeZone: "Europe/Berlin", month: "long", day: "2-digit"});
+    const berlinDate = new Date().toLocaleDateString("de", {timeZone: "Europe/Berlin", month: "long", day: "2-digit", year: "numeric"});
     document.getElementById("berlinDate").textContent = berlinDate;
 
-    const chicagoTime = new Date().toLocaleString("de", {timeZone: "America/Chicago"}).slice(0, -3);
+    const chicagoTime = new Date().toLocaleString("de", {timeZone: "America/Chicago", hour: "numeric", minute: "2-digit"};
     document.getElementById("omahaTime").textContent = chicagoTime;
 
-    const newYorkTime = new Date().toLocaleString("de", {timeZone: "America/New_York"}).slice(0, -3);
+    const chicagoDate = new Date().toLocaleString("de", {timeZone: "America/Chicago", month: "long", day: "2-digit", year: "numeric"});
+    document.getElementById("chicagoDate").textContent = chicagoDate;
+
+    const newYorkTime = new Date().toLocaleString("de", {timeZone: "America/New_York", hour: "numeric", minute: "2-digit"});
     document.getElementById("newYorkTime").textContent = newYorkTime;
+
+    const newYorkDate = new Date().toLocaleString("de", {timeZone: "America/New_York", month: "long", day: "2-digit", year: "numeric"});
+    document.getElementById("newYorkDate").textContent = newYorkDate;
 }
 
 // Update clocks every second
