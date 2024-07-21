@@ -7,11 +7,13 @@ subtitle: Informationen und Fortschritt zu den konkreten Kursen die ich belege
 Hier stelle ich genauer dar, wie ich spezifisch das Programm für mich designe und welche Kurse ich wo belege und anrechnen lasse. Viele der aufgelisteten Sachen sind momentan noch vorläufig und es muss sich zeigen, ob die Belegungslogik so funktioniert.
 
 ***
+
 In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett gedruckt. Im Transferstatus trage ich ein "akzeptiert" ein, wenn der Transfer so wie er in der Tabelle steht genehmigt wurde. Die Transferspalte ist allerdings am unsichersten, deswegen sind die Angaben dort nicht unbedingt vollständig oder bindend.
+
 ***
 
 ### Kurse belegt an der TUBS
-***
+
 
 |---
 | Modul der TUBS | Modul der UNO | bestanden | Transferstatus |
@@ -27,14 +29,14 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 | **Seminar Decision Support** | Elective 2 | ✔️ | akzeptiert |
 | **Seminar Marketing** |  | ✔️ |  |
 | **Was mit Medien** |  | ✔️ |  |
-| **Toolbox, Wissenscahftliches Arbeiten** |  | ✔️ |  |
+| **Toolbox, Wissenschaftliches Arbeiten** |  | ✔️ |  |
 | **Geschichte der Mathematik** |  | ✔️ |  |
 | **Quantitative Methoden für Wirtschaftsinformatiker** |  | ✔️ |  |
 
 ***
 
 ### Kurse belegt an der UNO
-***
+
 
 |---
 | Modul der TUBS | Modul der UNO | bestanden | Transferstatus |
@@ -44,7 +46,7 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 | Ausgewählte Themen der Wirtschaftsinformatik | **Managing the I.S. Function** |  |  |
 | Orientierung Service-Informationssysteme | **Advanced System Analysis & Design** |  |  |
 | Wahlpflichtbereich Informatik | **Enterprise Architecture & Systems Integration** |  |  |
-| Relationale Datenbanksysteme II | **Data Management* |  |  |
+| Relationale Datenbanksysteme II | **Data Management** |  |  |
 | Masterarbeit | **Thesis** |  |  |
 
 ***
