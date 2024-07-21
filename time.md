@@ -80,7 +80,9 @@ function updateClocks() {
 }
 
 // Update clocks every second
-setInterval(updateClocks, 1000);
+const waitms = new Date().getMilliseconds();
+setTimeout(function(){setInterval(updateClocks, 1000);}, 1000 - waitms)
+
 
 // Initial update
 updateClocks();
