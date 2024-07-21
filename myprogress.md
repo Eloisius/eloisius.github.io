@@ -50,3 +50,13 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 | Masterarbeit | **Thesis** |  |  |
 
 ***
+
+Zusätzlich gibt es an der UNO sogenannte "Foundation Courses". Das sind Grundlagenkurse, welche für die Zulassung in den Master/Graduate Studiengang zwingend notwendig sind. Für den Master Management Information Systems sind das folgende:
+
+- Introduction to Computer Science
+- Web Application Development
+- Introduction tp Applied Statistics für IS&T
+- Information Systems and Ethics
+- An Overview of Systems Development
+
+Glücklicherweise erfüllen die Kurse aus meinem Bachelor und Master die Anforderungen, sodass ich von den Grundlagenkursen nichts nachholen muss. Außerdem erfüllen meine bisherigen Kurse auch die Zulassungsbeschränkungen von weiteren UNO Kursen, wie zum Beispiel "Artificial Intelligence".
