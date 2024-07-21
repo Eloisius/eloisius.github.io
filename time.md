@@ -83,8 +83,6 @@ function updateClocks() {
 updateClocks();
 
 // Update clocks every second
-const waitms = new Date().getMilliseconds();
-sleep(1000 - waitms)
 setInterval(updateClocks, 1000);
 
 
