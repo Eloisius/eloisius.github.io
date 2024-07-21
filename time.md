@@ -33,7 +33,7 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
         margin-left: 10px;
         margin-right: 10px;
     }
-    .clock h3 {
+    .clock h2 {
         margin-top: 0;
         margin-bottom: 5px;
     }
@@ -42,26 +42,30 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
 <center>
 <div id="clocks">
     <div id="berlin" class="clock">
-        <h3>Berlin</h3>
+        <h2>Berlin</h2>
         <div id="berlinTime"></div>
+        <div id="berlinDate"></div>
     </div>
     <div id="Omaha" class="clock">
-        <h3>Omaha</h3>
+        <h2>Omaha</h2>
         <div id="omahaTime"></div>
     </div>
     <div id="newYork" class="clock">
-        <h3>New York</h3>
+        <h2>New York</h2>
         <div id="newYorkTime"></div>
     </div>
 </div>
 
 <script>
 function updateClocks() {
-    const londonTime = new Date().toLocaleString("de", {timeZone: "Europe/Berlin"}).slice(0, -3);
-    document.getElementById("berlinTime").textContent = londonTime;
+    const berlinTime = new Date().toLocaleTimeString("de", {timeZone: "Europe/Berlin", hour: "numeric", minute: "2-digit"}).slice(0, -3);
+    document.getElementById("berlinTime").textContent = berlinTime;
 
-    const newDelhiTime = new Date().toLocaleString("de", {timeZone: "America/Chicago"}).slice(0, -3);
-    document.getElementById("omahaTime").textContent = newDelhiTime;
+    const berlinDate = new Date().toLocaleDateString("de", {timeZone: "Europe/Berlin", month: "long", day: "2-digit"}).slice(0, -10);
+    document.getElementById("berlinDate").textContent = berlinDate;
+
+    const chicagoTime = new Date().toLocaleString("de", {timeZone: "America/Chicago"}).slice(0, -3);
+    document.getElementById("omahaTime").textContent = chicagoTime;
 
     const newYorkTime = new Date().toLocaleString("de", {timeZone: "America/New_York"}).slice(0, -3);
     document.getElementById("newYorkTime").textContent = newYorkTime;
