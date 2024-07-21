@@ -2,30 +2,33 @@
 <meta charset="UTF-8">
 <style>
     body {
-        font-family: Arial, sans-serif;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: larger;
         text-align: center;
         margin: 0;
         padding: 0;
-        background: linear-gradient(135deg, #00BFFF, #F5DEB3);
+        background: #F9f9f9;
     }    
     h1 {
         margin-top: 20px;
     }
     #clocks {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
-        margin-top: 20px;
+        margin-top: 15px;
+        margin-left: 15px;
     }
     .clock {
         border: 2px solid #333;
         border-radius: 10px;
-        padding: 20px;
-        width: calc(100% - 40px); /* Adjusting box size */
+        padding: 10px;
+        /*width: calc(100% - 40px); /* Adjusting box size */
         max-width: 400px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
+        margin-left: 10px;
     }
-    .clock h2 {
+    .clock h3 {
         margin-top: 0;
     }
 </style>
@@ -33,28 +36,28 @@
 <body>
 <div id="clocks">
     <div id="berlin" class="clock">
-        <h2>Berlin</h2>
+        <h3>Berlin</h3>
         <div id="berlinTime"></div>
     </div>
     <div id="Omaha" class="clock">
-        <h2>Omaha</h2>
+        <h3>Omaha</h3>
         <div id="omahaTime"></div>
     </div>
     <div id="newYork" class="clock">
-        <h2>New York</h2>
+        <h3>New York</h3>
         <div id="newYorkTime"></div>
     </div>
 </div>
 
 <script>
 function updateClocks() {
-    const londonTime = new Date().toLocaleString("de", {timeZone: "Europe/Berlin"});
+    const londonTime = new Date().toLocaleString("de", {timeZone: "Europe/Berlin"}).slice(0, -3);
     document.getElementById("berlinTime").textContent = londonTime;
 
-    const newDelhiTime = new Date().toLocaleString("de", {timeZone: "America/Chicago"});
+    const newDelhiTime = new Date().toLocaleString("de", {timeZone: "America/Chicago"}).slice(0, -3);
     document.getElementById("omahaTime").textContent = newDelhiTime;
 
-    const newYorkTime = new Date().toLocaleString("de", {timeZone: "America/New_York"});
+    const newYorkTime = new Date().toLocaleString("de", {timeZone: "America/New_York"}).slice(0, -3);
     document.getElementById("newYorkTime").textContent = newYorkTime;
 }
 
