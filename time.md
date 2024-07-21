@@ -39,6 +39,7 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
     }
 </style>
 <body>
+<center>
 <div id="clocks">
     <div id="berlin" class="clock">
         <h3>Berlin</h3>
@@ -72,5 +73,6 @@ setInterval(updateClocks, 1000);
 // Initial update
 updateClocks();
 </script>
+</center>
 </body>
 </html>
