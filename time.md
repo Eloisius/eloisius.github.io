@@ -66,7 +66,7 @@ function updateClocks() {
     const berlinDate = new Date().toLocaleDateString("de", {timeZone: "Europe/Berlin", month: "long", day: "2-digit", year: "numeric"});
     document.getElementById("berlinDate").textContent = berlinDate;
 
-    const chicagoTime = new Date().toLocaleString("de", {timeZone: "America/Chicago", hour: "numeric", minute: "2-digit"};
+    const chicagoTime = new Date().toLocaleString("de", {timeZone: "America/Chicago", hour: "numeric", minute: "2-digit"});
     document.getElementById("omahaTime").textContent = chicagoTime;
 
     const chicagoDate = new Date().toLocaleString("de", {timeZone: "America/Chicago", month: "long", day: "2-digit", year: "numeric"});
