@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport">
 <title>World Clock</title>
 <style>
     body {
@@ -53,13 +53,13 @@
 
 <script>
 function updateClocks() {
-    const londonTime = new Date().toLocaleString("en-US", {timeZone: "Europe/Berlin"});
+    const londonTime = new Date().toLocaleString("de", {timeZone: "Europe/Berlin"});
     document.getElementById("berlinTime").textContent = londonTime;
 
-    const newDelhiTime = new Date().toLocaleString("en-US", {timeZone: "America/Chicago"});
+    const newDelhiTime = new Date().toLocaleString("de", {timeZone: "America/Chicago"});
     document.getElementById("omahaTime").textContent = newDelhiTime;
 
-    const newYorkTime = new Date().toLocaleString("en-US", {timeZone: "America/New_York"});
+    const newYorkTime = new Date().toLocaleString("de", {timeZone: "America/New_York"});
     document.getElementById("newYorkTime").textContent = newYorkTime;
 }
 
