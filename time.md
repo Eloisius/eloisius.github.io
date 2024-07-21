@@ -9,10 +9,8 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
 
 <html>
 <style>
-    h1 {
-        margin-top: 20px;
-    }
     #clocks {
+        text-align: center;
         font-size: x-large;
         display: inline-flex;
         flex-direction: row;
@@ -23,6 +21,8 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
         margin-right: 15px;
     }
     .clock {
+        font-size: x-large;
+        text-align: center;
         border: 2px solid #333;
         border-radius: 10px;
         padding: 15px;
