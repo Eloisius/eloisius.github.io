@@ -41,11 +41,6 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
 <body>
 <center>
 <div id="clocks">
-    <div id="berlin" class="clock">
-        <h2>Berlin</h2>
-        <div id="berlinTime"></div>
-        <div id="berlinDate"></div>
-    </div>
     <div id="omaha" class="clock">
         <h2>Omaha</h2>
         <div id="omahaTime"></div>
@@ -55,6 +50,11 @@ Auf dieser Seite werden die aktuellen Uhrzeiten in Braunschweig und Omaha angege
         <h2>New York</h2>
         <div id="newYorkTime"></div>
         <div id="newYorkDate"></div>
+    </div>
+    <div id="berlin" class="clock">
+        <h2>Braunschweig</h2>
+        <div id="berlinTime"></div>
+        <div id="berlinDate"></div>
     </div>
 </div>
 
@@ -70,7 +70,7 @@ function updateClocks() {
     document.getElementById("omahaTime").textContent = chicagoTime;
 
     const chicagoDate = new Date().toLocaleString("de", {timeZone: "America/Chicago", month: "long", day: "2-digit", year: "numeric"});
-    document.getElementById("chicagoDate").textContent = chicagoDate;
+    document.getElementById("omahaDate").textContent = chicagoDate;
 
     const newYorkTime = new Date().toLocaleString("de", {timeZone: "America/New_York", hour: "numeric", minute: "2-digit"});
     document.getElementById("newYorkTime").textContent = newYorkTime;
