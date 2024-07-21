@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>World Clock</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(135deg, #00BFFF, #F5DEB3);
+    }    
+    h1 {
+        margin-top: 20px;
+    }
+    #clocks {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .clock {
+        border: 2px solid #333;
+        border-radius: 10px;
+        padding: 20px;
+        width: calc(100% - 40px); /* Adjusting box size */
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    .clock h2 {
+        margin-top: 0;
+    }
+</style>
+</head>
+<body>
+<h1>World Clock</h1>
+<div id="clocks">
+    <div id="berlin" class="clock">
+        <h2>Berlin</h2>
+        <div id="berlinTime"></div>
+    </div>
+    <div id="Omaha" class="clock">
+        <h2>Omaha</h2>
+        <div id="omahaTime"></div>
+    </div>
+    <div id="newYork" class="clock">
+        <h2>New York</h2>
+        <div id="newYorkTime"></div>
+    </div>
+</div>
+
+<script>
+function updateClocks() {
+    const londonTime = new Date().toLocaleString("en-US", {timeZone: "Europe/Berlin"});
+    document.getElementById("berlinTime").textContent = londonTime;
+
+    const newDelhiTime = new Date().toLocaleString("en-US", {timeZone: "America/Chicago"});
+    document.getElementById("omahaTime").textContent = newDelhiTime;
+
+    const newYorkTime = new Date().toLocaleString("en-US", {timeZone: "America/New_York"});
+    document.getElementById("newYorkTime").textContent = newYorkTime;
+}
+
+// Update clocks every second
+setInterval(updateClocks, 1000);
+
+// Initial update
+updateClocks();
+</script>
+</body>
+</html>
