@@ -19,7 +19,7 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 | Modul der TUBS | Modul der UNO | bestanden | Transferstatus |
 |:--------------|:--------------|:---------:|:--------------|
 | **Orientierung Decision Support** |  | ✔️ |  |
-| **Spezialisierung Decision Support** |  |  |  |
+| **Spezialisierung Decision Support** |  | ✔️ |  |
 | **Orientierung Marketing** | Elective 3 | ✔️ | akzeptiert |
 | **Spezialisierung Marketing** |  |  |  |
 | **Orientierung Produktion & Logistik** | Elective 1 | ✔️ | akzeptiert |
