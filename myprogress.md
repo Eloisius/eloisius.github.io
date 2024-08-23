@@ -23,7 +23,7 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 | **Orientierung Marketing** | Elective 3 | ✔️ | akzeptiert |
 | **Spezialisierung Marketing** |  |  |  |
 | **Orientierung Produktion & Logistik** | Elective 1 | ✔️ | akzeptiert |
-| **Spezialisierung Produktion & Logistik** |  |  |  |
+| **Spezialisierung Produktion & Logistik** |  | ✔️ |  |
 | **Data Warehousing & Data-Mining-Techniken** |  | ✔️ |  |
 | **Industrielles Software-Entwicklungsmanagement** | Management of Software Development |  |  |
 | **Seminar Decision Support** | Elective 2 | ✔️ | akzeptiert |
