@@ -7,7 +7,7 @@ mathjax: true
 
 Ich nehme es direkt vorweg: Ich bin gesund in Omaha angekommen.
 
-Nach einer frühen Anreise und einer extra Nacht in Frankfurt ging es dann vormittags los. Die Kofferabgabe hat problemloss geklappt und mein Handgepäckkoffer hat einen kleinen Schnipsel angeklebt bekommen, dass er als Handgepäck von Delta zugelassen wird.
+Nach einer frühen Anreise und einer extra Nacht in Frankfurt ging es dann vormittags los. Die Kofferabgabe hat problemlos geklappt und mein Handgepäckkoffer hat einen kleinen Schnipsel angeklebt bekommen, dass er als Handgepäck von Delta zugelassen wird.
 
 Der Abschied wurde etwas nach vorne gezogen, da ich etwas früher als erwartet einmal meine Bordkarte scannen musste, um in den nächsten Abschnitt zu gelangen. Nach ein bisschen Slalom habe ich dann den Sicherheitscheck gefunden. Zum Glück hatten die dort die coolen Scanner, sodass ich meine ganzen Geräte und Flüssigkeiten nicht extra rauskramen musste. Es wurden trotzdem sowohl mein Trolley, als auch mein Rucksack rausgezogen und untersucht. Gefunden wurde natürlich nichts. Nach der Kontrolle gab es dann auch nicht mehr viel zu tun und ich war sowieso schon direkt am Gate.
 
