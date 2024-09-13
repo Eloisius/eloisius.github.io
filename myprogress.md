@@ -21,7 +21,7 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 | **Orientierung Decision Support** |  | ✔️ |  |
 | **Spezialisierung Decision Support** |  | ✔️ |  |
 | **Orientierung Marketing** | Elective 3 | ✔️ | akzeptiert |
-| **Spezialisierung Marketing** |  |  |  |
+| **Spezialisierung Marketing** |  | ✔️ |  |
 | **Orientierung Produktion & Logistik** | Elective 1 | ✔️ | akzeptiert |
 | **Spezialisierung Produktion & Logistik** |  | ✔️ |  |
 | **Data Warehousing & Data-Mining-Techniken** |  | ✔️ |  |
