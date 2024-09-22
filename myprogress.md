@@ -25,7 +25,7 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 | **Orientierung Produktion & Logistik** | Elective 1 | ✔️ | akzeptiert |
 | **Spezialisierung Produktion & Logistik** |  | ✔️ |  |
 | **Data Warehousing & Data-Mining-Techniken** |  | ✔️ |  |
-| **Industrielles Software-Entwicklungsmanagement** | Management of Software Development |  |  |
+| **Industrielles Software-Entwicklungsmanagement** | Management of Software Development | ✔️ |  |
 | **Seminar Decision Support** | Elective 2 | ✔️ | akzeptiert |
 | **Seminar Marketing** |  | ✔️ |  |
 | **Was mit Medien** |  | ✔️ |  |
