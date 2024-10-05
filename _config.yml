@@ -10,7 +10,7 @@ navbar-links:
   Zeitverschiebung: "time"
   About Me: "aboutme"
 
-avatar: "assets/boi.jpg"
+avatar: "assets/pictures/boi.jpg"
 round-avatar: true
 
 social-network-links:
