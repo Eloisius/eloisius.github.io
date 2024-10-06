@@ -19,41 +19,40 @@ Das Video ist hier auf der Seite eingebettet, insofern kannst du es dir anschaue
 ***
 # Arts and Sciences Hall
 
-![Boi](/assets/pictures/spaziergang/arts_and_sciences_hall.JPG)
+![Arts and Sciences Hall](/assets/pictures/spaziergangdodge/arts_and_sciences_hall.JPG)
 
-![Boi](/assets/pictures/spaziergang/arts_and_sciences_venus.JPG)
+![Arts and Sciences Hall Venus](/assets/pictures/spaziergangdodge/arts_and_sciences_venus.JPG)
 
 # Back of Rosken Hall
 
-![Boi](/assets/pictures/spaziergang/rosken_hall.JPG)
+![Back of Rosken Hall](/assets/pictures/spaziergangdodge/rosken_hall.JPG)
 
 # Eppley Administration Building
 
-![Boi](/assets/pictures/spaziergang/eppley_admin.JPG)
+![Eppley Administration Building](/assets/pictures/spaziergangdodge/eppley_admin.JPG)
 
 # Plaza in front of Milo Bail Student Center
 
-![Boi](/assets/pictures/spaziergang/front_milo_bail.JPG)
+![Plaza in front of Milo Bail Student Center](/assets/pictures/spaziergangdodge/front_milo_bail.JPG)
 
 # College of Public Affairs
 
-
-![Boi](/assets/pictures/spaziergang/public_affairs.JPG)
+![College of Public Affairs](/assets/pictures/spaziergangdodge/public_affairs.JPG)
 
 # Henningson Memorial Campanile
 
-![Boi](/assets/pictures/spaziergang/clock_tower_1.JPG)
+![Henningson Memorial Campanile 1](/assets/pictures/spaziergangdodge/clock_tower_1.JPG)
 
-![Boi](/assets/pictures/spaziergang/clock_tower_2.JPG)
+![Henningson Memorial Campanile 2](/assets/pictures/spaziergangdodge/clock_tower_2.JPG)
 
 # Criss Library Front Entrance
 
 Das ist der Südeingang zu der Bibliothek. Direkt davor ist ein Parkplatz, deshalb ist das nicht so wirklich hübsch. Die Nordseite der Bibliothek sieht etwas schöner dekoriert aus, aber da laufe ich selten lang.
 
-![Boi](/assets/pictures/spaziergang/criss_library.JPG)
+![Criss Library Front Entrance](/assets/pictures/spaziergang/criss_library.JPG)
 
 # Campus Shuttle Sign
 
 An verschiedenen Orten auf dem Nord- und Südcampus stehen diese Schilder die anzeigen, welche der beiden Shuttle-Routen, "Durango" oder "Maverick", hier halten. An der Bibliothek halten beide.
 
-![Boi](/assets/pictures/spaziergang/shuttle_sign.JPG)
+![Campus Shuttle Sign](/assets/pictures/spaziergang/shuttle_sign.JPG)
