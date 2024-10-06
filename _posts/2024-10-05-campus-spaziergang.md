@@ -49,10 +49,10 @@ Das Video ist hier auf der Seite eingebettet, insofern kannst du es dir anschaue
 
 Das ist der Südeingang zu der Bibliothek. Direkt davor ist ein Parkplatz, deshalb ist das nicht so wirklich hübsch. Die Nordseite der Bibliothek sieht etwas schöner dekoriert aus, aber da laufe ich selten lang.
 
-![Criss Library Front Entrance](/assets/pictures/spaziergang/criss_library.JPG)
+![Criss Library Front Entrance](/assets/pictures/spaziergangdodge/criss_library.JPG)
 
 # Campus Shuttle Sign
 
 An verschiedenen Orten auf dem Nord- und Südcampus stehen diese Schilder die anzeigen, welche der beiden Shuttle-Routen, "Durango" oder "Maverick", hier halten. An der Bibliothek halten beide.
 
-![Campus Shuttle Sign](/assets/pictures/spaziergang/shuttle_sign.JPG)
+![Campus Shuttle Sign](/assets/pictures/spaziergangdodge/shuttle_sign.JPG)
