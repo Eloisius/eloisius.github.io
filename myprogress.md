@@ -55,7 +55,7 @@ Zusätzlich gibt es an der UNO sogenannte "Foundation Courses". Das sind Grundla
 
 - Introduction to Computer Science
 - Web Application Development
-- Introduction tp Applied Statistics für IS&T
+- Introduction to Applied Statistics für IS&T
 - Information Systems and Ethics
 - An Overview of Systems Development
 
