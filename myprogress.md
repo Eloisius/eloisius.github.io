@@ -41,9 +41,9 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 |---
 | Modul der TUBS | Modul der UNO | bestanden | Transferstatus |
 |:--------------|:--------------|:---------:|:--------------|
-| ?? | **Artificial Intelligence** |  |  |
-| ?? | **IT Infrastructure & Cloud** |  |  |
-| Ausgewählte Themen der Wirtschaftsinformatik | **Managing the I.S. Function** |  |  |
+| ?? | **Artificial Intelligence** | ✔️ |  |
+| ?? | **IT Infrastructure & Cloud** | ✔️ |  |
+| Ausgewählte Themen der Wirtschaftsinformatik | **Managing the I.S. Function** | ✔️ |  |
 | Orientierung Service-Informationssysteme | **Advanced System Analysis & Design** |  |  |
 | Wahlpflichtbereich Informatik | **Enterprise Architecture & Systems Integration** |  |  |
 | Relationale Datenbanksysteme II | **Data Management** |  |  |
