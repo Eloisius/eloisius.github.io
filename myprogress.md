@@ -32,6 +32,7 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 | **Toolbox, Wissenschaftliches Arbeiten** |  | ✔️ |  |
 | **Geschichte der Mathematik** |  | ✔️ |  |
 | **Quantitative Methoden für Wirtschaftsinformatiker** |  | ✔️ |  |
+| **Orientierung Service-Informationssysteme** |  |  |  |
 
 ***
 
@@ -41,12 +42,12 @@ In den Tabellen sind die Kurse, die ich tatsächlich belege/belegt habe, fett ge
 |---
 | Modul der TUBS | Modul der UNO | bestanden | Transferstatus |
 |:--------------|:--------------|:---------:|:--------------|
-| ?? | **Artificial Intelligence** | ✔️ |  |
-| ?? | **IT Infrastructure & Cloud** | ✔️ |  |
-| Ausgewählte Themen der Wirtschaftsinformatik | **Managing the I.S. Function** | ✔️ |  |
-| Orientierung Service-Informationssysteme | **Advanced System Analysis & Design** |  |  |
-| Wahlpflichtbereich Informatik | **Enterprise Architecture & Systems Integration** |  |  |
-| Relationale Datenbanksysteme II | **Data Management** |  |  |
+| Äquivalenzlos Wahlpflichtbereich Informatik | **Artificial Intelligence** | ✔️ | akzeptiert, irrelevant für TUBS Master |
+| Computernetze 2 | **IT Infrastructure & Cloud** | ✔️ | akzeptiert |
+| Ausgewählte Themen der Wirtschaftsinformatik | **Managing the I.S. Function** | ✔️ | akzeptiert |
+| Spezialisierung Service-Informationssysteme | **Advanced System Analysis & Design** | ✔️ | akzeptiert |
+| Äquivalenzlos Wahlpflichtbereich Verteilte Systeme | **Enterprise Architecture & Systems Integration** | ✔️ | akzeptiert |
+| Relationale Datenbanksysteme II | **Data Management** | ✔️ | akzeptiert |
 | Masterarbeit | **Thesis** |  |  |
 
 ***
